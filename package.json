@@ -27,6 +27,7 @@
     "agents:test:int": "pnpm --filter agents test:int"
   },
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.10",
     "prettier": "^3.5.3",
     "typescript": "~5.7.2"
   },
@@ -49,4 +50,4 @@
     "monorepo"
   ],
   "license": "MIT"
-} 
+}
